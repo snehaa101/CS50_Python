@@ -1,2 +1,23 @@
 # CS50_Python
-Solutions of CS50 Introduction to Programming with Python problem sets, written by me while learning the fundamentals of  programming.
+
+This repository contains my solutions of ""CS50 Introduction to Programming with Python"" course by Havard University (offered via Edx).
+
+------
+
+# Course overview 
+ The ""CS50 Introduction to Programming with Python"" covers fundamental programming logic, computational thinking, and software development basics
+ (https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python)
+
+ -----
+ 
+# Author 
+
+  ""Sneha Dubey""
+  B.Tech 3rd Year Student 
+   - Bhopal, India
+
+-----
+
+# Notes
+- All solutions are written by me as part of my personal learning process
+
